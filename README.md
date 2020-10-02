@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">I a full stack developer from UK</h3>
+<h3 align="center">I'm a full stack developer from UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony308" alt="tony308" /> </p>
 
