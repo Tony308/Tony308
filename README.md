@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony308" alt="tony308" /> </p>
 
-- 🔭 I’m currently working on [Jupiter](jupiter.fit) startup
+- 🔭 I’m currently working on [Jupiter](https://jupiter.fit) startup
 
 - 🌱 I’m currently learning **Django**
 
