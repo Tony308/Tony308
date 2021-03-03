@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jupiter](https://jupiter.fit) startup
 
-- 🌱 I’m currently learning **Azure Cloud & C# + .NET Core**
+- 🌱 I’m currently learning **Azure Cloud & C# + .NET Core + React Native**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/tony-huang-308/)**
 
