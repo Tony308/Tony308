@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony308" alt="tony308" /> </p>
 
-- 🔭 I’m currently working on [Jupiter](https://jupiter.fit) startup
+- 🔭 I’m currently working on [Jupiter](https://jupiter.fit) startup. Note: On hiatus.
 
-- 🌱 I’m currently learning **Azure Cloud & C# + .NET Core + React Native**
+- 🌱 I’m currently learning **Salesforce Administration & Developer**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/tony-huang-308/)**
 
